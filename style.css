@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.japan {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    height: 80%;
+    border: 1px black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.red_circle {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    border-radius: 50%;
+}
